@@ -5,4 +5,4 @@ fruit_sales = pd.DataFrame({'Apples': [35, 41], 'Bananas': [21, 34]}, index=['20
 fruit_sales
 
 
-fruit_sales.to_csv('Fruit.csv')
+fruit_sales.to_csv('fruit.csv')
